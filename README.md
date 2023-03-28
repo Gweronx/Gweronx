@@ -1,5 +1,5 @@
 # <img src="https://img.shields.io/badge/Hello!-I'm%20LJ!-lightgrey">  
-Welcome to my github! I am a schoolboy by day and a programmer by night. I am very interested in linguistics and conlanging.  
+Welcome to my github! I am very interested in linguistics and conlanging.  
 My own programming languages:
 * [Oddsie](https://github.com/Oddsie/Oddsie)
 * [Oddsie++](https://github.com/Oddsie/OddsiePlusPLus)
